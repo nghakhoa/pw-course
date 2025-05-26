@@ -18,5 +18,3 @@ for (let i = str.length - 1; i >= 0; i--) {
 
 2.3
 console.log(arr.indexOf("3"));
-
-2.4
